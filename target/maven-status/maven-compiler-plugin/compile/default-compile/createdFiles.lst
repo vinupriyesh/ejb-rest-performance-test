@@ -1,0 +1,6 @@
+com/ninemm/ejbtest/FunctionCall.class
+com/ninemm/ejbtest/EjbService.class
+com/ninemm/ejbtest/Plain.class
+com/ninemm/ejbtest/SimpleService.class
+com/ninemm/ejbtest/EjbCall.class
+com/ninemm/ejbtest/JaxRsActivator.class
